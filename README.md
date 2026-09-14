@@ -1,2 +1,6 @@
-# Diah Ayu Rahmadani - 255150701111025 - Teknologi Informasi E
-# Proyek ini berisi tugas-tugas HTML & CSS Praktikum Pengembangan Aplikasi Web
+Nama: Diah Ayu Rahmadani
+Nim: 255150701111025
+Prodi: Teknologi Informasi
+Mata Kuliah: Pengembangan Aplikasi Web
+Kelas: E
+Isi Proyek: Kumpulan Tugas HTML & CSS
